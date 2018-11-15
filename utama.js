@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/09/construction-management-software.html"}
 if(x=="2"){xxx="/2018/09/best-5-property-management-software-in.html"}
 if(x=="3"){xxx="/2018/09/top-7-open-source-project-management.html"}
 if(x=="4"){xxx="/2018/09/5-resource-management-software-resource.html"}
-if(x=="5"){xxx="/2018/09/10-best-team-management-software-for.html"}a_to_ve[i].href="http://www.asset-management-firms.me"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/09/10-best-team-management-software-for.html"}a_to_ve[i].href="http://www.asset-management-firms.club"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
